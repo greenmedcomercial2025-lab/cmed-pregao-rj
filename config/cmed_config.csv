@@ -1,0 +1,7 @@
+PARAMETRO,VALOR,OBSERVACAO
+CAP_VIGENTE,"19,79%","Vigente a partir de 24/09/2026 conforme Resolução CTE-CMED nº 1/2026"
+UF,RJ,"Estado de referência do projeto"
+FINALIDADE,"Pregões/Compras Públicas","Conferência de teto CMED"
+REGRA_CAP_SIM,PMVG,"Preço Máximo de Venda ao Governo"
+REGRA_CAP_NAO,PF,"Quando não houver CAP nem decisão judicial"
+REGRA_DECISAO_JUDICIAL,PMVG,"Independentemente do rol CAP"
